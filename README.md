@@ -270,4 +270,6 @@ GROUP BY category;
 - **Where it's from:** Focused on top countries and India's releases.
 - **What it's about:** Sorted into categories so it's easy to find specific themes.
 
-This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
+## Project Impact
+
+This analysis provides a comprehensive view of Netflix's content ecosystem. These insights are designed to inform content strategy and data-driven decision-making for streaming platforms.
