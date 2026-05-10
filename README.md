@@ -258,17 +258,17 @@ GROUP BY category;
 
 ## Findings and Conclusion
 
-**Mixed Content:** The library has a big variety of movies and TV shows from many different genres.
-**Target Audience:** By looking at the most common age ratings, we can see exactly who the shows are being made for (like kids, teens, or adults).
-**Global Reach:** We can see which countries make the most content, including a closer look at how much is coming out of India.
-**Content Themes:** By grouping shows using specific keywords, we can better understand the different types of stories available.
+- **Mixed Content:** The library has a big variety of movies and TV shows from many different genres.
+- **Target Audience:** By looking at the most common age ratings, we can see exactly who the shows are being made for (like kids, teens, or adults).
+- **Global Reach:** We can see which countries make the most content, including a closer look at how much is coming out of India.
+- **Content Themes:** By grouping shows using specific keywords, we can better understand the different types of stories available.
 
 ## Quick Breakdown
 
-**What’s there:** A bit of everything (Movies & TV).
-**Who it's for:** Determined by the most popular ratings.
-**Where it's from:** Focused on top countries and India's releases.
-**What it's about:** Sorted into categories so it's easy to find specific themes.
+- **What’s there:** A bit of everything (Movies & TV).
+- **Who it's for:** Determined by the most popular ratings.
+- **Where it's from:** Focused on top countries and India's releases.
+- **What it's about:** Sorted into categories so it's easy to find specific themes.
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles.
